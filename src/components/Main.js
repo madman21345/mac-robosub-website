@@ -1,12 +1,12 @@
 import About from '../components/About';
-import Services from '../components/Services';
+import Teams from '../components/Teams';
 import Contact from '../components/Contact';
 
 function Main() {
   return (
     <>
       <main>
-        <Services />
+        <Teams />
         <About />
         <Contact />
       </main>
