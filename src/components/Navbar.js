@@ -33,7 +33,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="container">
         <div className="row">
-          <h1 className="logo" img="MacSub.png">
+          <h1 className="logo">
             <Link
               spy={true}
               smooth={true}
@@ -41,7 +41,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              MacSub (logo)
+              <img src="/img/MacSub1.png" alt="MacSub Logo" />
             </Link>
           </h1>
           <ul className="bar">
