@@ -11,9 +11,9 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-              quam purus, ullamcorper id risus eu, consectetur consectetur
-              purus. Etiam sagittis in eros ac sollicitudin.
+              Our up and coming McMaster technical team specializes in designing, building, and testing an Autonomous Underwater Vehicle 
+              to compete in the annual RoboSub Competition hosted by RoboNation. We promote innovation, problem-solving, and hands-on 
+              engineering experience through our club! Check out our individual sub-team pages for more information.
             </p>
           </div>
         </div>

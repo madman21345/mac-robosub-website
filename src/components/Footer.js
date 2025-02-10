@@ -10,9 +10,9 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <h1 className="logo">MacSub</h1>
+                <h1 className="logo">Mac RoboSub</h1>
                 <p className="footer-text">
-                  Lorem ipsum Here are thriteen health benefits of apples Lorem
+                  Diving into Challenging Waters!
         
                 </p>
               </div>
@@ -52,7 +52,7 @@ function Footer() {
                     <Link to="#" >(Discord Logo) Hiring Exec</Link>
                   </li>
                   <li>
-                    <Link to="#" >123 456 7890 (remove?)</Link>
+                    <Link to="#" >123 456 7890</Link>
                   </li>
                 </ul>
               </div>
@@ -60,7 +60,7 @@ function Footer() {
                 <p className="footer-title">Social Media</p>
                 <ul>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/" > Github(if org page)</a>
+                    <a target="_blank" rel="noreferrer" href="https://github.com/" > Github</a>
                   </li>
                   <li>
                     <a target="_blank" rel="noreferrer" href="https://discord.com/" > Discord</a>

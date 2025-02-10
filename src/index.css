@@ -216,7 +216,7 @@ header h1 {
 /* main */
 .main-title {
   font-size: 48px;
-  color: #01bf71;
+  color: #056ed8;
 }
 .main-p {
   font-size: 22px;
@@ -299,7 +299,7 @@ footer ul li a {
 }
 .gotop {
   transition: all 0.2s;
-  background-color: #01bf71;
+  background-color: #056ed8;
   position: fixed;
   border-radius: 25px;
   padding: 1rem;
@@ -316,7 +316,7 @@ footer ul li a {
 }
 /* Services */
 .card-title {
-  color: #01bf71;
+  color: #056ed8;
   font-size: 24px;
 }
 .p-3 {
@@ -385,7 +385,7 @@ ul li a {
   width: 100%;
   font-weight: 500;
   z-index: 1;
-  background-color: #01bf71;
+  background-color: #056ed8;
   padding: 10px 50px;
 
   transition: background-color 0.2s;

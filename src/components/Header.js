@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <video src="./video.mp4" loop autoPlay muted></video>
-      <h1>McMaster University RoboSub 2025 (Change bg to mcmaster or robosub relevant)</h1>
+      <h1>McMaster RoboSub 2025</h1>
       {/* <div className="row">
         <button className="btn" style={{ cursor: "pointer" }}>
           <Link
